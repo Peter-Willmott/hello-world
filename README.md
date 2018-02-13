@@ -1,5 +1,5 @@
 # hello-world
-Learning the ropes \n
+Learning the ropes
 Just mellowing out making commits
 
 ## Heading (Secondary)
